@@ -2,6 +2,7 @@
   font-family: 'Bitstream Vera Sans Mono', 'DejaVu Sans Mono', Monaco, Courier, monospace;
   font-size: 12px;
   margin: 0;
+  white-space: normal;
   padding: 0 0 0 12px;
   display: inline-block;
 }
@@ -10,6 +11,7 @@
   font-size: 12px;
   margin: 0;
   padding: 0;
+  white-space: normal;
   display: inline-block;
 }
 ul.jsondiffpatch-delta {
